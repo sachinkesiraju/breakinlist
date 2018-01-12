@@ -133865,75 +133865,120 @@
 		"investor_name": "Cyan Banister"
 	}],
 	"https://www.crunchbase.com/organization/affirm": [{
+		"investor_name": "Founders Fund",
+		"is_lead_investor": "No",
+		"funding_round": "Series E ",
+		"partners": "-"
+	}, {
+		"investor_name": "GIC",
 		"is_lead_investor": "Yes",
-		"partners": ["\u2014"],
+		"funding_round": "Series E ",
+		"partners": "-"
+	}, {
+		"investor_name": "Lightspeed Venture Partners",
+		"is_lead_investor": "No",
+		"funding_round": "Series E ",
+		"partners": "-"
+	}, {
+		"investor_name": "Spark Capital",
+		"is_lead_investor": "No",
+		"funding_round": "Series E ",
+		"partners": "-"
+	}, {
+		"investor_name": "Caffeinated Capital",
+		"is_lead_investor": "No",
+		"funding_round": "Series E ",
+		"partners": "-"
+	}, {
+		"investor_name": "Ribbit Capital",
+		"is_lead_investor": "No",
+		"funding_round": "Series E ",
+		"partners": "-"
+	}, {
+		"investor_name": "Khosla Ventures",
+		"is_lead_investor": "No",
+		"funding_round": "Series E ",
+		"partners": "-"
+	}, {
+		"investor_name": "Morgan Stanley",
+		"is_lead_investor": "No",
 		"funding_round": "Debt Financing ",
-		"investor_name": "Morgan Stanley"
+		"partners": "-"
 	}, {
+		"investor_name": "Khosla Ventures",
 		"is_lead_investor": "No",
-		"partners": ["Keith Rabois"],
 		"funding_round": "Series D ",
-		"investor_name": "Khosla Ventures"
+		"partners": "-"
 	}, {
+		"investor_name": "Spark Capital",
 		"is_lead_investor": "No",
-		"partners": ["Jeremy Philips"],
 		"funding_round": "Series D ",
-		"investor_name": "Spark Capital"
+		"partners": "-"
 	}, {
+		"investor_name": "Lightspeed Venture Partners",
 		"is_lead_investor": "No",
-		"partners": ["Jeremy Liew"],
 		"funding_round": "Series D ",
-		"investor_name": "Lightspeed Venture Partners"
+		"partners": "-"
 	}, {
+		"investor_name": "Andreessen Horowitz",
 		"is_lead_investor": "No",
-		"partners": ["\u2014"],
 		"funding_round": "Series D ",
-		"investor_name": "Andreessen Horowitz"
+		"partners": "-"
 	}, {
+		"investor_name": "Caffeinated Capital",
 		"is_lead_investor": "No",
-		"partners": ["\u2014"],
 		"funding_round": "Series D ",
-		"investor_name": "Jefferies"
+		"partners": "-"
 	}, {
-		"is_lead_investor": "Yes",
-		"partners": ["Brian Singerman"],
+		"investor_name": "Jefferies",
+		"is_lead_investor": "No",
 		"funding_round": "Series D ",
-		"investor_name": "Founders Fund"
+		"partners": "-"
 	}, {
-		"is_lead_investor": "Yes",
-		"partners": ["Jeremy Philips"],
+		"investor_name": "Founders Fund",
+		"is_lead_investor": "No",
+		"funding_round": "Series D ",
+		"partners": "-"
+	}, {
+		"investor_name": "Spark Capital",
+		"is_lead_investor": "No",
 		"funding_round": "Series B ",
-		"investor_name": "Spark Capital"
+		"partners": "-"
 	}, {
-		"is_lead_investor": "\u2014",
-		"partners": ["Keith Rabois"],
+		"investor_name": "Khosla Ventures",
+		"is_lead_investor": "No",
 		"funding_round": "Series B ",
-		"investor_name": "Khosla Ventures"
+		"partners": "-"
 	}, {
-		"is_lead_investor": "\u2014",
-		"partners": ["Jeremy Liew"],
+		"investor_name": "Lightspeed Venture Partners",
+		"is_lead_investor": "No",
 		"funding_round": "Series B ",
-		"investor_name": "Lightspeed Venture Partners"
+		"partners": "-"
 	}, {
-		"is_lead_investor": "\u2014",
-		"partners": ["\u2014"],
+		"investor_name": "Andreessen Horowitz",
+		"is_lead_investor": "No",
 		"funding_round": "Series B ",
-		"investor_name": "Andreessen Horowitz"
+		"partners": "-"
 	}, {
-		"is_lead_investor": "\u2014",
-		"partners": ["\u2014"],
+		"investor_name": "Jefferies",
+		"is_lead_investor": "No",
 		"funding_round": "Series B ",
-		"investor_name": "Jefferies"
+		"partners": "-"
 	}, {
-		"is_lead_investor": "\u2014",
-		"partners": ["Keith Rabois"],
+		"investor_name": "Khosla Ventures",
+		"is_lead_investor": "No",
 		"funding_round": "Series A ",
-		"investor_name": "Khosla Ventures"
+		"partners": "-"
 	}, {
-		"is_lead_investor": "\u2014",
-		"partners": ["Jeremy Liew"],
+		"investor_name": "Lightspeed Venture Partners",
+		"is_lead_investor": "No",
 		"funding_round": "Series A ",
-		"investor_name": "Lightspeed Venture Partners"
+		"partners": "-"
+	}, {
+		"investor_name": "HVF Labs",
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-"
 	}],
 	"https://www.crunchbase.com/organization/edupristine": [{
 		"is_lead_investor": "Yes",
@@ -143589,5 +143634,3582 @@
 		"is_lead_investor": "\u2014",
 		"investor_name": "Kleiner Perkins Caufield & Byers",
 		"partners": ["\u2014"]
+	}],
+	"https://crunchbase.com/organization/reddit": [{
+		"investor_name": "SV Angel",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Venture Round "
+	}, {
+		"investor_name": "Bracket VC",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Venture Round "
+	}, {
+		"investor_name": "Andreessen Horowitz",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Venture Round "
+	}, {
+		"investor_name": "Edward Lando",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Venture Round "
+	}, {
+		"investor_name": "Fidelity Investments",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Venture Round "
+	}, {
+		"investor_name": "Coatue Management",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Venture Round "
+	}, {
+		"investor_name": "Alrai Capital",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Venture Round "
+	}, {
+		"investor_name": "Sequoia Capital",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Venture Round "
+	}, {
+		"investor_name": "VentureSouq",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Venture Round "
+	}, {
+		"investor_name": "Vy Capital",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Venture Round "
+	}, {
+		"investor_name": "Y Combinator",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Venture Round "
+	}, {
+		"investor_name": "SV Angel",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series B "
+	}, {
+		"investor_name": "Jared Leto",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series B "
+	}, {
+		"investor_name": "Andreessen Horowitz",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series B "
+	}],
+	"https://crunchbase.com/organization/darktrace": [{
+		"investor_name": "Insight Venture Partners",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "KKR & Co. (Kohlberg Kravis Roberts & Co.)",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "TenEleven Ventures",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Summit Partners",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "TenEleven Ventures",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series C "
+	}, {
+		"investor_name": "SoftBank",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series C "
+	}, {
+		"investor_name": "Summit Partners",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series C "
+	}],
+	"https://crunchbase.com/organization/cloudflare": [{
+		"investor_name": "New Enterprise Associates",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Pelion Venture Partners",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Union Square Ventures",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Fidelity Investments",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Microsoft Corporation - Strategic Investments",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Baidu",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "CapitalG",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Greenspring Associates",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Microsoft Accelerator",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Venrock",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Qualcomm Ventures",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}],
+	"https://crunchbase.com/organization/nerdwallet": [{
+		"investor_name": "Camelot Financial Capital Management",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series A "
+	}, {
+		"investor_name": "Core Innovation Capital",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series A "
+	}, {
+		"investor_name": "iGlobe Partners",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series A "
+	}, {
+		"investor_name": "Steven Fan",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series A "
+	}, {
+		"investor_name": "IVP (Institutional Venture Partners)",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series A "
+	}],
+	"https://crunchbase.com/organization/docker": [{
+		"investor_name": "SharesPost Investment Management",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Secondary Market "
+	}, {
+		"investor_name": "Trinity Ventures",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Greylock Partners",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Insight Venture Partners",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Sequoia Capital",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Ignition Partners",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Lightspeed Venture Partners",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Northern Trust",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Coatue Management",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Sequoia Capital",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Greylock Partners",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Benchmark",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "AME Cloud Ventures",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Insight Venture Partners",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Ignition Partners",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Trinity Ventures",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Goldman Sachs",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Trinity Ventures",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series C "
+	}, {
+		"investor_name": "Sequoia Capital",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series C "
+	}],
+	"https://crunchbase.com/organization/anaplan": [{
+		"investor_name": "PremjiInvest",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series F "
+	}, {
+		"investor_name": "Salesforce Ventures",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series F "
+	}, {
+		"investor_name": "Top Tier Capital Partners",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series F "
+	}, {
+		"investor_name": "DFJ Growth",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "Shasta Ventures",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "Harmony Partners",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "PremjiInvest",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "Brookside Capital",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "Coatue Management",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "Meritech Capital Partners",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "Salesforce Ventures",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "Baillie Gifford",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "Founders Circle Capital",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "Granite Ventures",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "Sands Capital Management",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}],
+	"https://crunchbase.com/organization/docusign": [{
+		"investor_name": "Dell Technologies Capital",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series F "
+	}, {
+		"investor_name": "Deutsche Telekom",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series F "
+	}, {
+		"investor_name": "Dell Technologies Capital",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series F "
+	}, {
+		"investor_name": "Intel Capital",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series F "
+	}, {
+		"investor_name": "Brookside Capital",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series F "
+	}, {
+		"investor_name": "Ron Suber",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series F "
+	}, {
+		"investor_name": "Wasatch Advisors",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series F "
+	}, {
+		"investor_name": "Sands Capital Ventures",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series F "
+	}, {
+		"investor_name": "Alta Park Capital, LP",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series F "
+	}, {
+		"investor_name": "Dell Technologies Capital",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series F "
+	}, {
+		"investor_name": "Generation Investment Management",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series F "
+	}, {
+		"investor_name": "Microsoft Corporation - Strategic Investments",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series F "
+	}, {
+		"investor_name": "Bain Capital Ventures",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series F "
+	}, {
+		"investor_name": "ICONIQ Capital",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series F "
+	}, {
+		"investor_name": "Founders Circle Capital",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series F "
+	}, {
+		"investor_name": "ClearBridge Investments",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series F "
+	}, {
+		"investor_name": "Wellington Management",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series F "
+	}, {
+		"investor_name": "Green Bay Ventures",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series F "
+	}, {
+		"investor_name": "Founders Circle Capital",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Secondary Market "
+	}, {
+		"investor_name": "Founders Circle Capital",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Secondary Market "
+	}, {
+		"investor_name": "MKI",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "BBVA Ventures",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "Propel Venture Partners",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "NTT Finance",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "Visa",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "Greenspring Associates",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "Recruit Co., Ltd",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "Mitsui & Co",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "EquityZen",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Secondary Market "
+	}, {
+		"investor_name": "SharesPost Investment Management",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Secondary Market "
+	}, {
+		"investor_name": "Cross Creek Advisors",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "Kleiner Perkins Caufield & Byers",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "Frazier Technology Ventures",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "Sapphire Ventures",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "Telstra Ventures",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "Accel Partners",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}, {
+		"investor_name": "Jackson Square Ventures",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series E "
+	}],
+	"https://crunchbase.com/organization/hashicorp": [{
+		"investor_name": "GGV Capital",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series C "
+	}, {
+		"investor_name": "Mayfield Fund",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series C "
+	}, {
+		"investor_name": "True Ventures",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series C "
+	}, {
+		"investor_name": "Redpoint",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series C "
+	}, {
+		"investor_name": "GGV Capital",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series B "
+	}, {
+		"investor_name": "Redpoint",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series B "
+	}, {
+		"investor_name": "Mayfield Fund",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series B "
+	}],
+	"https://crunchbase.com/organization/cybereason": [{
+		"investor_name": "SoftBank",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Spark Capital",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series C "
+	}, {
+		"investor_name": "CRV",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series C "
+	}, {
+		"investor_name": "SoftBank",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series C "
+	}],
+	"https://crunchbase.com/organization/snowflake-computing": [{
+		"investor_name": "Capital One",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Madrona Venture Group",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Redpoint",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Wing Venture Capital",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Sutter Hill Ventures",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Altimeter Capital",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "ICONIQ Capital",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series D "
+	}, {
+		"investor_name": "Sutter Hill Ventures",
+		"is_lead_investor": "No",
+		"partners": "-",
+		"funding_round": "Series C "
+	}],
+	"https://crunchbase.com/organization/atrium-lts": [{
+		"is_lead_investor": "No",
+		"investor_name": "Y Combinator",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Adrian Aoun",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Steve Jang",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Brainchild Holdings",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Micha\u0142 Borkowski",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Rene Reinsberg",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Caffeinated Capital",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Charles Forman",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Argonautic Ventures",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "GGV Capital",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Joshua Reeves",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Travis VanderZanden",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Thrive Capital",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "General Catalyst",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Arena Ventures",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Early Impact Ventures",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "New Enterprise Associates",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Emmett Shear",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Desmond Lim",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Wei Guo",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Paul Mckellar",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Jackson Square Ventures",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Jenny Haeg",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Slow Ventures",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Karim Atiyeh",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Aarjav Trivedi",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "SV Angel",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Brian Goodman",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Gregory Chang",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Greylock Partners",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Sujay Tyle",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Avichal Garg",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Eusden Shing",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Binary Capital",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Ruchi Sanghvi",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "500 Startups",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Charlie Songhurst",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Liquid2 Ventures",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Palapa Ventures",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Jack Newton",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Soma Capital",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Tekton Ventures",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Jon Dahl",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "BEENEXT",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Mikhail Seregine",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "BoxGroup",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Oriza Ventures",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Kevin Lin",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Dharmesh Shah",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "David Schellhase",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Struck Capital",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "John Hering",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "First Round Capital",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Palm Drive Capital",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Jason Tan",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Kyle Vogt",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Andrew Chen",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Erik Torenberg",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Saurabh Gupta",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Bennett Rogers",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Signia Venture Partners",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Matt Gamache-Asselin",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Tikhon Bernstam",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Brian Shin",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Ari Kardasis",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Initialized Capital",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Amitt Mahajan",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Eric Glyman",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Chris Fanini",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Shasta Ventures",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Lee Linden",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Brent Goldman",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Mike Ghaffary",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Ranidu Lankage",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Gil Penchina",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Immad Akhund",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "DCM Ventures",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Alan Arman",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Founders Fund",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Kleiner Perkins Caufield & Byers",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Wayne Chang",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "General Catalyst",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Maxim Basov",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Josh Buckley",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Armaan Ali",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Robin Chan",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Arram Sabeti",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Manish Shah",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Andela",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Loren Vittetoe",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Balance Ventures",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Scott James",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Shasta Ventures",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}, {
+		"is_lead_investor": "No",
+		"investor_name": "Matt Brezina",
+		"funding_round": "Series A ",
+		"partners": "-"
+	}],
+	"https://crunchbase.com/organization/sprout-social": [{
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Goldman Sachs",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "New Enterprise Associates",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "New Enterprise Associates",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Lightbank",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Lightbank",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "New Enterprise Associates",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Lightbank",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Lightbank",
+		"is_lead_investor": "No"
+	}],
+	"https://crunchbase.com/organization/uptake-3": [{
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "Baillie Gifford",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "GreatPoint Ventures",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "Revolution",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Revolution",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "GreatPoint Ventures",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "New Enterprise Associates",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Lightbank",
+		"is_lead_investor": "No"
+	}],
+	"https://crunchbase.com/organization/tesla-motors": [{
+		"funding_round": "Post",
+		"partners": "-",
+		"investor_name": "Tencent Holdings",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Post",
+		"partners": "-",
+		"investor_name": "Goldman Sachs",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Post",
+		"partners": "-",
+		"investor_name": "Bank of America Merrill Lynch",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Post",
+		"partners": "-",
+		"investor_name": "Deutsche Bank",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Post",
+		"partners": "-",
+		"investor_name": "Citigroup",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Post",
+		"partners": "-",
+		"investor_name": "Morgan Stanley",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Grant ",
+		"partners": "-",
+		"investor_name": "California Energy Commission",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Post",
+		"partners": "-",
+		"investor_name": "Panasonic",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Post",
+		"partners": "-",
+		"investor_name": "Toyota Motor Corporation",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series F ",
+		"partners": "-",
+		"investor_name": "Al Wahada Capital Investment",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series F ",
+		"partners": "-",
+		"investor_name": "Aabar Investments",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series F ",
+		"partners": "-",
+		"investor_name": "Fjord Ventures",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series F ",
+		"partners": "-",
+		"investor_name": "Daimler",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Debt Financing ",
+		"partners": "-",
+		"investor_name": "US Department of Energy",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series E ",
+		"partners": "-",
+		"investor_name": "Daimler",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series E ",
+		"partners": "-",
+		"investor_name": "DFJ Growth",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Debt Financing ",
+		"partners": "-",
+		"investor_name": "Kimbal Musk",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Debt Financing ",
+		"partners": "-",
+		"investor_name": "Elon Musk",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Debt Financing ",
+		"partners": "-",
+		"investor_name": "Technology Venture Partners US",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Debt Financing ",
+		"partners": "-",
+		"investor_name": "Valor Equity Partners",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Debt Financing ",
+		"partners": "-",
+		"investor_name": "The Westly Group",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Debt Financing ",
+		"partners": "-",
+		"investor_name": "VantagePoint Capital Partners",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Debt Financing ",
+		"partners": "-",
+		"investor_name": "Technology Venture Partners US",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Debt Financing ",
+		"partners": "-",
+		"investor_name": "Valor Equity Partners",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Debt Financing ",
+		"partners": "-",
+		"investor_name": "The Westly Group",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Debt Financing ",
+		"partners": "-",
+		"investor_name": "Elon Musk",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series E ",
+		"partners": "-",
+		"investor_name": "The Westly Group",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series E ",
+		"partners": "-",
+		"investor_name": "Daimler",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series E ",
+		"partners": "-",
+		"investor_name": "Elon Musk",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series E ",
+		"partners": "-",
+		"investor_name": "Valor Equity Partners",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series E ",
+		"partners": "-",
+		"investor_name": "Draper Fisher Jurvetson (DFJ)",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series E ",
+		"partners": "-",
+		"investor_name": "Kimbal Musk",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series E ",
+		"partners": "-",
+		"investor_name": "Technology Venture Partners",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series E ",
+		"partners": "-",
+		"investor_name": "VantagePoint Capital Partners",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "Technology Venture Partners US",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "Compass Technology Partners",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "VantagePoint Capital Partners",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "Capricorn Investment Group",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "Valor Equity Partners",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "Elon Musk",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "Draper Fisher Jurvetson (DFJ)",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "Martin Eberhard",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "Marc Tarpenning",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "J.P. Morgan Securities Inc.",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Capricorn Investment Group",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Elon Musk",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Valor Equity Partners",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Compass Technology Partners",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "J.P. Morgan Securities Inc.",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Nick Pritzker",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Google",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "VantagePoint Capital Partners",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Sergey Brin",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Draper Fisher Jurvetson (DFJ)",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Larry Page",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Valor Equity Partners",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Compass Technology Partners",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Elon Musk",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Elon Musk",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Compass Technology Partners",
+		"is_lead_investor": "No"
+	}],
+	"https://crunchbase.com/organization/convene": [{
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Elysium Capital Management",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "The Durst Organization",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "ArrowMark Partners",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Conversion Ventures LLC",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Conversion Ventures LLC",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Sunrise Capital Partners",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "ArrowMark Partners",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Brookfield Property Partners",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Boathouse Capital",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Boathouse Capital",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Conversion Ventures LLC",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Tamarix Capital",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Boathouse Capital",
+		"is_lead_investor": "No"
+	}],
+	"https://www.crunchbase.com/organization/vida-3": [{
+		"funding_round": "Funding Round ",
+		"partners": "-",
+		"investor_name": "Halogen Ventures",
+		"is_lead_investor": "No"
+	}],
+	"https://crunchbase.com/organization/sourcegraph": [{
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Goldcrest Capital",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Redpoint",
+		"is_lead_investor": "No"
+	}],
+	"https://crunchbase.com/organization/intercom": [{
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "John Collison",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Mark Zuckerberg",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Stewart Butterfield",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Social Capital",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Patrick Collison",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Jack Dorsey",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "ICONIQ Capital",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Jason Fried",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Bessemer Venture Partners",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Index Ventures",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Bessemer Venture Partners",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Social Capital",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "ICONIQ Capital",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Social Capital",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Bessemer Venture Partners",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "David Sacks",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Social Capital",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Freestyle Capital",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "500 Startups",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Freestyle Capital",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "David Hauser",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Digital Garage",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Biz Stone",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Stuart Coulson",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Roham Gharegozlou",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Conor Stanley",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Andy McLoughlin",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "DG Incubation",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Dan Martell",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "David Coallier",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Caelen King",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Eamon Leonard",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "500 Startups",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Oyster Technology Investments",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Jonathan Strauss",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Paddy Holahan",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Jonathan Siegel",
+		"is_lead_investor": "No"
+	}],
+	"https://www.crunchbase.com/organization/apnicure": [{
+		"funding_round": "Venture Round ",
+		"partners": "-",
+		"investor_name": "Kleiner Perkins Caufield & Byers",
+		"is_lead_investor": "No"
+	}, {
+		"funding_round": "Venture Round ",
+		"partners": "-",
+		"investor_name": "U.S. Venture Partners (USVP)",
+		"is_lead_investor": "No"
+	}],
+	"https://crunchbase.com/organization/cradlepoint": [{
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "TCV"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Sorenson Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "The CAPROCK Group"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Delta-v Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Debt Financing ",
+		"partners": "-",
+		"investor_name": "Trinity Capital Investment"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Highway 12 Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "OVP Venture Partners"
+	}],
+	"https://crunchbase.com/organization/jana": [{
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Verizon Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Publicis Groupe"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Spark Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Venture Round ",
+		"partners": "-",
+		"investor_name": "Spark Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Venture Round ",
+		"partners": "-",
+		"investor_name": "Publicis Groupe"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Publicis Groupe"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Spark Capital"
+	}],
+	"https://www.crunchbase.com/organization/atrium-lts": [{
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Y Combinator"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Adrian Aoun"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Steve Jang"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Brainchild Holdings"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Micha\u0142 Borkowski"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Rene Reinsberg"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Caffeinated Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Charles Forman"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Argonautic Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "GGV Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Joshua Reeves"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Travis VanderZanden"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Thrive Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "General Catalyst"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Arena Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Early Impact Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "New Enterprise Associates"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Emmett Shear"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Desmond Lim"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Wei Guo"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Paul Mckellar"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Jackson Square Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Jenny Haeg"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Slow Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Karim Atiyeh"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Aarjav Trivedi"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "SV Angel"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Brian Goodman"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Gregory Chang"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Greylock Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Sujay Tyle"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Avichal Garg"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Eusden Shing"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Binary Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Ruchi Sanghvi"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "500 Startups"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Charlie Songhurst"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Liquid2 Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Palapa Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Jack Newton"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Soma Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Tekton Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Jon Dahl"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "BEENEXT"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Mikhail Seregine"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "BoxGroup"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Oriza Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Kevin Lin"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Dharmesh Shah"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "David Schellhase"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Struck Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "John Hering"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "First Round Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Palm Drive Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Jason Tan"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Kyle Vogt"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Andrew Chen"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Erik Torenberg"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Saurabh Gupta"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Bennett Rogers"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Signia Venture Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Matt Gamache-Asselin"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Tikhon Bernstam"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Brian Shin"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Ari Kardasis"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Initialized Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Amitt Mahajan"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Eric Glyman"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Chris Fanini"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Shasta Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Lee Linden"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Brent Goldman"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Mike Ghaffary"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Ranidu Lankage"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Gil Penchina"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Immad Akhund"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "DCM Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Alan Arman"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Founders Fund"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Kleiner Perkins Caufield & Byers"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Wayne Chang"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "General Catalyst"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Maxim Basov"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Josh Buckley"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Armaan Ali"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Robin Chan"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Arram Sabeti"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Manish Shah"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Andela"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Loren Vittetoe"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Balance Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Scott James"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Shasta Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Matt Brezina"
+	}],
+	"https://crunchbase.com/organization/ibotta": [{
+		"is_lead_investor": "No",
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "Teamworthy Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "Jim Clark"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "Tom Jermoluk"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "Harbor Spring Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "GGV Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Tom Jermoluk"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Harbor Spring Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "James Clark"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Teamworthy Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "GGV Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Great Oaks Venture Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "James Clark"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Tom Jermoluk"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Thomas Lehrman"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "WebMD"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Tom Jermoluk"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Netscape"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Great Oaks Venture Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "James Clark"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Great Oaks Venture Capital"
+	}],
+	"https://crunchbase.com/organization/glint": [{
+		"is_lead_investor": "No",
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "Shasta Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "Bessemer Venture Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "Meritech Capital Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "Norwest Venture Partners - NVP"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Bessemer Venture Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Norwest Venture Partners - NVP"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Norwest Venture Partners - NVP"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Meritech Capital Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Bessemer Venture Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Shasta Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Shasta Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Norwest Venture Partners - NVP"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Ev Williams"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Norwest Venture Partners - NVP"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Shasta Ventures"
+	}],
+	"https://crunchbase.com/organization/lendinghome": [{
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Jake Seid"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Sberbank"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Noah Holdings"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Acequia Capital (Acecap)"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Foundation Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Fabrice Grinda"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "DHVC (Danhua Capital)"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "First Round Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Renren Inc."
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Jose Marin"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "First Round Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Foundation Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Ribbit Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Cowboy Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Lee Linden"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Foundation Capital"
+	}],
+	"https://crunchbase.com/organization/nuna-health": [{
+		"is_lead_investor": "No",
+		"funding_round": "Venture Round ",
+		"partners": "-",
+		"investor_name": "Kleiner Perkins Caufield & Byers"
+	}],
+	"https://crunchbase.com/organization/eshares": [{
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Stewart Butterfield"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Union Square Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Ryan Petersen"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Spark Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Steven Berger"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "SV Angel"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Insight Venture Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Menlo Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Taavet Hinrikus"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Social Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Vivek Garipalli"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Expansion Venture Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Subtraction Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Spark Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Flight Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Union Square Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Anthemis Group"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Industry Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "SierraMaya360"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Haystack"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Subtraction Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Semil Shah"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Expansion Venture Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Service Provider Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Spark Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "K9 Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Union Square Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "TEEC Angel Fund"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Todd Corenson"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Draper Associates"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Elefund"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Structure Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Draper Fisher Jurvetson (DFJ)"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Andy Palmer"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Kima Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Expansion Venture Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Subtraction Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Scott Banister"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "K9 Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "XG Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Venture Round ",
+		"partners": "-",
+		"investor_name": "FFL Startup Accelerator"
+	}],
+	"https://crunchbase.com/organization/pendo-io": [{
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Meritech Capital Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Contour Venture Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "IDEA Fund Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Core Capital Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Spark Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Salesforce Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Battery Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Spark Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Battery Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Contour Venture Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Core Capital Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "IDEA Fund Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Salesforce Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Salesforce Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "IDEA Fund Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Core Capital Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Contour Venture Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Battery Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Convertible Note ",
+		"partners": "-",
+		"investor_name": "Core Capital Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Convertible Note ",
+		"partners": "-",
+		"investor_name": "Contour Venture Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Core Capital Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Contour Venture Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Angel Round ",
+		"partners": "-",
+		"investor_name": "Dingman Center Angels"
+	}],
+	"https://crunchbase.com/organization/skuid": [{
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "ICONIQ Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "K1 Investment Management"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "K1 Investment Management"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Salesforce Ventures"
+	}],
+	"https://crunchbase.com/organization/datadog": [{
+		"is_lead_investor": "No",
+		"funding_round": "Venture Round ",
+		"partners": "-",
+		"investor_name": "Meritech Capital Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "Amplify Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "ICONIQ Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "Index Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "Contour Venture Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "OpenView"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Amplify Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Index Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "RTP Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "OpenView"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Index Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "RRE Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "NYC Seed"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "OpenView"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "IA Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Amplify Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "RTP Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Contour Venture Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "IA Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Contour Venture Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Index Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "RTP Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "NYC Seed"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Amplify Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "IA Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "RTP Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Amplify Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Contour Venture Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "RRE Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Neu Venture Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Bob Pasker"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "NYC Seed"
+	}],
+	"https://crunchbase.com/organization/ayar-labs": [{
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "Founders Fund"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "TechU Angels"
+	}],
+	"https://crunchbase.com/organization/shogun-2": [{
+		"is_lead_investor": "No",
+		"funding_round": "Convertible Note ",
+		"partners": "-",
+		"investor_name": "WS Investments"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Convertible Note ",
+		"partners": "-",
+		"investor_name": "Founders Fund"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Convertible Note ",
+		"partners": "-",
+		"investor_name": "OEL Venture Investments"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Convertible Note ",
+		"partners": "-",
+		"investor_name": "Arab Angel Fund"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Convertible Note ",
+		"partners": "-",
+		"investor_name": "Sherpa Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Convertible Note ",
+		"partners": "-",
+		"investor_name": "Jake Seid"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Convertible Note ",
+		"partners": "-",
+		"investor_name": "Macro Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Convertible Note ",
+		"partners": "-",
+		"investor_name": "Scott Flanders"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Convertible Note ",
+		"partners": "-",
+		"investor_name": "Goldcrest Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "8VC"
+	}],
+	"https://crunchbase.com/organization/avalara": [{
+		"is_lead_investor": "No",
+		"funding_round": "Private Equity Round ",
+		"partners": "-",
+		"investor_name": "Battery Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Private Equity Round ",
+		"partners": "-",
+		"investor_name": "Sageview Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Private Equity Round ",
+		"partners": "-",
+		"investor_name": "TCV"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Private Equity Round ",
+		"partners": "-",
+		"investor_name": "Arthur Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Private Equity Round ",
+		"partners": "-",
+		"investor_name": "Warburg Pincus"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Private Equity Round ",
+		"partners": "-",
+		"investor_name": "Warburg Pincus"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Private Equity Round ",
+		"partners": "-",
+		"investor_name": "TCV"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Private Equity Round ",
+		"partners": "-",
+		"investor_name": "Warburg Pincus"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Private Equity Round ",
+		"partners": "-",
+		"investor_name": "Battery Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Venture Round ",
+		"partners": "-",
+		"investor_name": "Sageview Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Venture Round ",
+		"partners": "-",
+		"investor_name": "Arthur Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Venture Round ",
+		"partners": "-",
+		"investor_name": "Battery Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Venture Round ",
+		"partners": "-",
+		"investor_name": "Battery Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Sageview Capital"
+	}],
+	"https://www.crunchbase.com/organization/angle-technologies": [{
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Ruchi Sanghvi"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Holly May"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Greylock Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Tipatat Chennavasin"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Ethan Beard"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Jason Toff"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Rene Reinsberg"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Travis May"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "General Catalyst"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Michael A. Morell"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Rushabh Doshi"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Noam Lovinsky"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Julia Popowitz"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "GV"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Shishir Mehrotra"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Seed Round ",
+		"partners": "-",
+		"investor_name": "General Catalyst"
+	}],
+	"https://crunchbase.com/organization/deem": [{
+		"is_lead_investor": "No",
+		"funding_round": "Venture Round ",
+		"partners": "-",
+		"investor_name": "PointGuard Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Venture Round ",
+		"partners": "-",
+		"investor_name": "Hony Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Venture Round ",
+		"partners": "-",
+		"investor_name": "Hony Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Venture Round ",
+		"partners": "-",
+		"investor_name": "PointGuard Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Venture Round ",
+		"partners": "-",
+		"investor_name": "One Equity Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Venture Round ",
+		"partners": "-",
+		"investor_name": "Foundation Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Venture Round ",
+		"partners": "-",
+		"investor_name": "Oak Investment Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Debt Financing ",
+		"partners": "-",
+		"investor_name": "Oak Investment Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Debt Financing ",
+		"partners": "-",
+		"investor_name": "Foundation Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Venture Round ",
+		"partners": "-",
+		"investor_name": "SternAegis Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Venture Round ",
+		"partners": "-",
+		"investor_name": "American Express Business Travel"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Venture Round ",
+		"partners": "-",
+		"investor_name": "JP Morgan Chase & Co."
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series F ",
+		"partners": "-",
+		"investor_name": "JP Morgan Chase & Co."
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series E ",
+		"partners": "-",
+		"investor_name": "Foundation Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series E ",
+		"partners": "-",
+		"investor_name": "Chase Capital Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series E ",
+		"partners": "-",
+		"investor_name": "Oak Investment Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series E ",
+		"partners": "-",
+		"investor_name": "American Express Business Travel"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series D ",
+		"partners": "-",
+		"investor_name": "American Express Business Travel"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Oak Investment Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Foundation Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Khosla Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Foundation Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Burton McMurtry"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Charter Venture Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Val Vaden"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Barry Newman"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Palo Alto Investors"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Empire Capital Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Venture Round ",
+		"partners": "-",
+		"investor_name": "Charter Venture Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Venture Round ",
+		"partners": "-",
+		"investor_name": "Foundation Capital"
+	}],
+	"https://crunchbase.com/organization/iex": [{
+		"is_lead_investor": "No",
+		"funding_round": "Venture Round ",
+		"partners": "-",
+		"investor_name": "Sapphire Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "MassMutual Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Franklin Templeton Investments"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Spark Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "TDF Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Steve Wynn"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "Bain Capital Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series C ",
+		"partners": "-",
+		"investor_name": "James Clark"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Scoggin Capital Management"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Third Point Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Greenlight Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Capital Group"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Pershing Square Capital Management"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Senator Investment Group"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Maverick Capital"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Brandes Investment Partners"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "James Clark"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Belfer Management"
+	}],
+	"https://crunchbase.com/organization/financialforce-com": [{
+		"is_lead_investor": "No",
+		"funding_round": "Private Equity Round ",
+		"partners": "-",
+		"investor_name": "Salesforce Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Private Equity Round ",
+		"partners": "-",
+		"investor_name": "TCV"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Private Equity Round ",
+		"partners": "-",
+		"investor_name": "Advent International"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Salesforce Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series B ",
+		"partners": "-",
+		"investor_name": "Salesforce Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "Salesforce Ventures"
+	}, {
+		"is_lead_investor": "No",
+		"funding_round": "Series A ",
+		"partners": "-",
+		"investor_name": "UNIT4"
 	}]
 }
